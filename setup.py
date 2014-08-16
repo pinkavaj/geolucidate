@@ -20,6 +20,7 @@ setup(
         "Topic :: Scientific/Engineering :: GIS"
         ],
 
+    use_2to3=True,
     packages=[
         "geolucidate",
         "geolucidate.links",
